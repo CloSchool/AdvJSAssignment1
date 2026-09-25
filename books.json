@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Intro to C#",
+        "author": "Stephen Carter",
+        "isbn": "1000-9876-0001"
+    },
+    {
+        "title": "Software Architecture",
+        "author": "Andre Boudreau",
+        "isbn": "1000-0000-0000"
+    },
+    {
+        "title": "Angular State Management with NGRX",
+        "author": "Chris Cusack",
+        "isbn": "1000-0000-0010"
+    },
+    {
+        "title": "ASP.NET with Entity Framework",
+        "author": "Judson Murray",
+        "isbn": "2000-9876-0000"
+    },
+    {
+        "title": "Advanced JavaScript",
+        "author": "Chris Cusack",
+        "isbn": "1000-9876-0000"
+    },
+    {
+        "title": "Intro to iOS",
+        "author": "Bonnie Ryan",
+        "isbn": "1000-9876-2222"
+    }
+]
